@@ -1,0 +1,19 @@
+name: Skills
+source: 
+  - skillname: Programming languages
+    description: 
+       - Python
+       - R
+       - C++
+       - MATLAB
+       
+  - skillname: Dashboard development
+    description: 
+       - R Shiny
+    
+  - skillname: Machine learning libraries
+    description: 
+      - Tensorflow/Keras
+      - Scikit-Learn
+      - H20
+  

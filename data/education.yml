@@ -1,0 +1,20 @@
+name: Education
+source:
+  - title: PhD Electrical Engineering
+    univ: University of the Witwatersrand
+    place: Johanesburg, South Africa
+    date: 2014 to 2019
+    type: thesis
+    description: Stabilizability preserving quotients for nonlinear control systems.
+
+  - title: MSc(Eng) Electrical Engineering
+    univ: University of the Witwatersrand
+    place: Johanesburg, South Africa
+    date: 2013 to 2014
+    type: dissertation
+    description: Nonlinear robust trajectory tracking and control of quadrotor UAV.
+    
+  - title: BSc(Eng) Electrical Engineering
+    univ: University of the Witwatersrand
+    place: Johanesburg, South Africa
+    date: 2009 to 2012.

@@ -1,3 +1,20 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "docs"
+baseurl = "http://chingozhatinashe.github.io/CV/"
+googleAnalytics = ""
+theme = "hugo-vitae"
+
+[params]
+  author = "Tinashe Chingozha"
+  title = "Tinashe Chingozha's CV"
+  description = "Tinashe Chingozha's Curriculum Vitae"
+  avatar = "profile.jpg"
+  email = "chingozhatinashe@gmail.com"
+  email_full = "mailto:chingozhatinashe@gmail"
+  github = "chingozhatinashe"
+  city = "Johannesburg"
+  country = "South Africa"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
